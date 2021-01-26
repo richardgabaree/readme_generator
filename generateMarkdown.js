@@ -6,6 +6,13 @@ function generateMarkdown(data) {
     ${data.title}
   ## Description 
     ${data.description}
+ 
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Use](#use)
+  * [Tests](#tests)
+  * [Contributors](#contributors)
+
   ## Contributors 
     ${data.contributors}
   ## Test 
@@ -17,6 +24,9 @@ function generateMarkdown(data) {
   ## GitHub Links
     ${data.git}
     ${data.projectemail}
+  ## Questions
+    I am open for questions and feedback on this repository, please contact me directly at ${data.email}. 
+    For other projects I've worked on, see [${data.github}](https://github.com/${data.github}/).
   `
   return markdown
 }

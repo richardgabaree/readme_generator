@@ -69,6 +69,7 @@ function init() {
         name: "projectemail",
         message: "What is your GitHub project link?",
       },
+      
     ]).then((answers) => 
     writeToFile('README.md', answers));
     
