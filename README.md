@@ -1,7 +1,6 @@
 
 
-  # Title 
-    README Generator
+  # README Generator - Homework 09-Node.js
   ## Description 
     The purpose of the project is to create a readme through generated question through node.
  

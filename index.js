@@ -43,7 +43,7 @@ function init() {
       },
       {
         type: "input",
-        name: "use",
+        name: "usage",
         message: "How is this meant to be used for?"
       },
       {
@@ -80,7 +80,7 @@ function init() {
       },
       
     ]).then((answers) => 
-    writeToFile('README.md', answers));
+    writeToFile('GeneratedREADME.md', answers));
     
 }
 

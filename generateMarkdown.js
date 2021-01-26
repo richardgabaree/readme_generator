@@ -16,7 +16,7 @@ function generateMarkdown(data) {
   ## Contributors 
     ${data.contributors}
   ## Use
-    ${data.use}
+    ${data.usage}
   ## Installation
     ${data.installation}
   ## Test 
