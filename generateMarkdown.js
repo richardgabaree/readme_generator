@@ -28,7 +28,7 @@ function generateMarkdown(data) {
     ${data.projectemail}
   ## Questions
     I am open for questions and feedback on this repository, please contact me directly at ${data.email}. 
-    For other projects I've worked on, see [${data.github}](https://github.com/${data.github}/).
+    For other projects I've worked on, see [${data.github}](https://github.com/${data.git}/).
   `
   return markdown
 }
