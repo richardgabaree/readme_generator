@@ -36,7 +36,16 @@ function init() {
         name: "description",
         message: "Write a short description of this project.",
       },
-
+      {
+        type: "input",
+        name: "installation",
+        message: "Describe the installation steps, dependencies, or commands."
+      },
+      {
+        type: "input",
+        name: "use",
+        message: "How is this meant to be used for?"
+      },
       {
         type: "input",
         name: "contributors",

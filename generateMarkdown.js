@@ -15,12 +15,14 @@ function generateMarkdown(data) {
 
   ## Contributors 
     ${data.contributors}
+  ## Use
+    ${data.use}
+  ## Installation
+    ${data.installation}
   ## Test 
     ${data.tests}
   ## License
     ${data.license}
-  ## GitHub
-    ${data.github}
   ## GitHub Links
     ${data.git}
     ${data.projectemail}
