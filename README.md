@@ -26,7 +26,8 @@
   ## License
     No License
   ## Links
-    [Demo]: https://drive.google.com/file/d/1K5xWO1034nkLw9REol-MNOwteRb01Rn4/view?usp=sharing
+    [![Demo Video](./assets/demoscreenshot.png)](https://drive.google.com/file/d/1K5xWO1034nkLw9REol-MNOwteRb01Rn4/view?usp=sharing "click to go to demo video")
+git 
     [Repository]: https://github.com/richardgabaree/readme_generator
     [Project]: https://richardgabaree.github.io/readme_generator/
   ## Questions
